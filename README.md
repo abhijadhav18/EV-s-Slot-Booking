@@ -1,2 +1,2 @@
-# EV-s-Slot-Booking
+# EVs-Slot-Booking
 This Project Is About Booking A Charging Slot For The Electric Vehicles From Any Location .
